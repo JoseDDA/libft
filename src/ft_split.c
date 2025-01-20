@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
 
 // funcion que cuenta la cantidad de filas basandose en los separadores
 static size_t	ft_count_words(char const *s, char c)
